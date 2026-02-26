@@ -24,3 +24,11 @@ body{
     background-position: center;
     background-attachment: fixed; /* stays while scrolling */
 }
+
+p{
+    color: beige;
+    text-align: center;
+    font-size: large;
+    font-weight: 300;
+    font-display: auto;
+}
