@@ -23,10 +23,11 @@ body{
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* stays while scrolling */
+    
 }
 
 p{
-    color: beige;
+    color: rgb(168, 168, 48);
     text-align: center;
     font-size: large;
     font-weight: 300;
