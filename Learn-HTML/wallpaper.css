@@ -4,6 +4,8 @@ h1{
     font-size: 100;
     font-weight: bold;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(247, 3, 3);
+    border: 3px solid;
 }
 
 pr{
