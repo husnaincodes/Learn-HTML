@@ -60,8 +60,15 @@
         }
 
         .nav-links a {
-            color: rgb(240, 237, 237);
+            color: rgb(0, 0, 0);
             text-decoration: none;
+            transition: text-decoration 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            text-decoration: underline;
+            transition: all 0.3s ease;
+            color: rgb(212, 28, 28);
         }
 
         /* ===== FLEXBOX FOR CARDS ===== */
