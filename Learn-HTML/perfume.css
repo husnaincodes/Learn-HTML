@@ -1,12 +1,12 @@
 body {
     font-family: 'Segoe UI', Arial, sans-serif;
     margin: 0;
-    background: #d88888;
+    background: #ffffff;
     color: #940000;
 }
 header {
     background: #856060;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 8px rgba(216, 55, 55, 0.05);
     padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
@@ -15,7 +15,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.2rem;
-    color: #b48e5c;
+    color: #000000;
 }
 nav ul {
     font-style: italic;
@@ -27,12 +27,19 @@ nav ul {
 }
 nav a {
     text-decoration: none;
-    color: #222;
+    color: #000000;
     font-weight: 500;
     transition: color 0.2s;
 }
 nav a:hover {
     color: #b48e5c;
+}
+.search {
+    margin-left: 2rem;
+    display: flex;    align-items: center;
+    border: solid black 1px;
+    background-color: #000000;
+    background: #000000;
 }
 .hero {
     background: linear-gradient(90deg, #fbeee6 60%, #f7f7f7 100%);
@@ -41,7 +48,7 @@ nav a:hover {
 }
 .hero h2 {
     font-size: 2rem;
-    color: #b48e5c;
+    color: #141312;
 }
 .products {
     padding: 2rem 1rem;
@@ -94,7 +101,7 @@ nav a:hover {
     color: #b48e5c;
 }
 footer {
-    background: #b48e5c;
+    background: #805b2b;
     color: #fff;
     text-align: center;
     padding: 1.5rem 1rem 1rem 1rem;
