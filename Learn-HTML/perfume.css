@@ -2,10 +2,10 @@ body {
     font-family: 'Segoe UI', Arial, sans-serif;
     margin: 0;
     background: #d88888;
-    color: #222;
+    color: #940000;
 }
 header {
-    background: #fff;
+    background: #856060;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
     padding: 1rem 2rem;
     display: flex;
@@ -45,7 +45,7 @@ nav a:hover {
 }
 .products {
     padding: 2rem 1rem;
-    background: #f00505;
+    background: #2e1f1f;
 }
 .products h2 {
     text-align: center;
@@ -59,7 +59,7 @@ nav a:hover {
     flex-wrap: wrap;
 }
 .product-card {
-    background: #d1a990;
+    background: #f3b38b;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(37, 33, 27, 0.08);
     padding: 1rem;
