@@ -1,0 +1,29 @@
+.nav-link:hover {
+    color: burlywood;
+}
+
+body {
+    background-color:lightslategray;
+}
+
+.container.p-5.my-5.border {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000000;
+    font-style: italic;
+}
+
+h1, h2 {
+    display: inline;
+}
+.col-sm-4 {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000000;
+    height: 210px;
+    margin: auto;
+   
+}
+.col-sm-8 {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000000;
+    height: 210px;
+}

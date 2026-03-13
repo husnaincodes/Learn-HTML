@@ -1,0 +1,75 @@
+
+
+h1{
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-style: italic;
+    background-color:bisque;
+   
+}
+
+.card {
+    text-align: center;
+    margin: 20px;
+    margin-left: 180px;
+    padding: 30px;
+    outline: 3px solid rgb(117, 70, 70);
+    width: 75%;
+    height: 500px;
+    overflow: auto;  
+}
+
+
+
+.card-image {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+
+
+
+.menu {
+    list-style-type: none;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+.menu a {
+    text-decoration: none;
+    color: blue;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    color: red;
+}
+
+
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 5px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
