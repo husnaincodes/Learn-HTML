@@ -1,0 +1,35 @@
+body {
+  background-color: lightblue;
+}
+
+body {
+background-image: url("images.jpg");
+background-repeat: no-repeat;
+background-position: center;
+}
+
+h1 {
+  color: royalblue;
+}
+
+h2 {
+  color: rgb(255, 0, 0);
+}
+
+p1 {
+  font-size: 20px;
+  color: #895129;
+}
+
+
+div {
+  border-width: 5px;
+  border-style: solid;
+  border-color: red;
+  
+}
+
+
+body {
+  font-family: "Arial", Helvetica, sans-serif;
+}
